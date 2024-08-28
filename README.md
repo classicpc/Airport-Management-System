@@ -20,7 +20,6 @@ Obtain a list of departing flights from a particular airport on a given date wit
 Find arriving flights at a specific airport on a given date with getArrivalFlightByAirport(Airport airport).
 Manage Pilots:
 Verify if a pilot is assigned to any flight using the specified aircraft with isPilotForFlight(Aircraft aircraft).
-Getting Started
 
 Prerequisites:
 
