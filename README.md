@@ -28,9 +28,8 @@ Integrated Development Environment (IDE) (e.g., Eclipse, IntelliJ IDEA, NetBeans
 Instructions:
 
 Clone the Repository:
-git clone https://github.com/your-username/airport-system.git
-cd airport-system
-
+git clone https://github.com/classicpc/Airport-Management-System
+cd Airport-Management-System
 Compile the Code:
 Use your preferred IDE to import the project and compile the code.
 Alternatively, compile from the command line:
