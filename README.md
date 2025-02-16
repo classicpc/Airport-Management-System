@@ -34,11 +34,11 @@ cd airport-system
 Compile the Code:
 Use your preferred IDE to import the project and compile the code.
 Alternatively, compile from the command line:
-javac *.java
+javac AirportTest.java
 
 Run the Application:
 Execute the main class to launch the application. Specify the main class name in the command line:
-java MainClass
+java AirportTest
 
 Class Breakdown
 
